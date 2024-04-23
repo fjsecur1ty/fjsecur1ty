@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=fjsec.dan@gmail.com&su=&body=)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/FJSecurity__)
 ## I use:
-[![My Skills](https://skillicons.dev/icons?i=python,docker,fastapi,flask,postgresql,aws,solidity,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,docker,fastapi,flask,postgresql,aws,solidity,linux,mongodb,dynamodb,figma&theme=light)](https://skillicons.dev)
