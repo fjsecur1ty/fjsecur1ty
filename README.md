@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-## I am a `backend` developer and `Solidity` Security researcher.
+## I am a `backend` developer and `Solidity` security researcher.
 
 ## Have any questions? contact me: 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=fjsec.dan@gmail.com&su=&body=)
